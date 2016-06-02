@@ -10,7 +10,9 @@
 
 @interface Start : UIViewController
 @property (strong, nonatomic) IBOutlet UILabel *lblTittle;
+@property (strong, nonatomic) IBOutlet UIButton *BttL1;
 
+- (IBAction)BttL1Press:(id)sender;
 
 @end
 

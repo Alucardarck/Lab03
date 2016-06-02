@@ -14,6 +14,8 @@
 
 @implementation Start
 
+char Counter=0;
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
@@ -28,4 +30,12 @@
 
 
 
+- (IBAction)BttL1Press:(id)sender {
+    Counter++;
+    if(Counter==2)
+    {
+       self.lblTittle.text=@"Hello";
+    }
+    
+}
 @end
