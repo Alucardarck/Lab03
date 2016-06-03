@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B635C501D011C98002FE3B6 /* Arya.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C3F1D011C98002FE3B6 /* Arya.png */; };
+		5B635C511D011C98002FE3B6 /* Bad.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C401D011C98002FE3B6 /* Bad.png */; };
+		5B635C521D011C98002FE3B6 /* Catelyn.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C411D011C98002FE3B6 /* Catelyn.png */; };
+		5B635C531D011C98002FE3B6 /* Correct.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C421D011C98002FE3B6 /* Correct.png */; };
+		5B635C541D011C98002FE3B6 /* Daenerys.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C431D011C98002FE3B6 /* Daenerys.png */; };
+		5B635C551D011C98002FE3B6 /* Excelent.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C441D011C98002FE3B6 /* Excelent.png */; };
+		5B635C561D011C98002FE3B6 /* God.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C451D011C98002FE3B6 /* God.png */; };
+		5B635C571D011C98002FE3B6 /* Hound.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C461D011C98002FE3B6 /* Hound.png */; };
+		5B635C581D011C98002FE3B6 /* Jaime.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C471D011C98002FE3B6 /* Jaime.png */; };
+		5B635C591D011C98002FE3B6 /* Jojen.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C481D011C98002FE3B6 /* Jojen.png */; };
+		5B635C5A1D011C98002FE3B6 /* Jon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C491D011C98002FE3B6 /* Jon.png */; };
+		5B635C5B1D011C98002FE3B6 /* Myrcella.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4A1D011C98002FE3B6 /* Myrcella.png */; };
+		5B635C5C1D011C98002FE3B6 /* Samwell.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4B1D011C98002FE3B6 /* Samwell.png */; };
+		5B635C5D1D011C98002FE3B6 /* Stannis.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4C1D011C98002FE3B6 /* Stannis.png */; };
+		5B635C5E1D011C98002FE3B6 /* Ti.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4D1D011C98002FE3B6 /* Ti.png */; };
+		5B635C5F1D011C98002FE3B6 /* Tyrion.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4E1D011C98002FE3B6 /* Tyrion.png */; };
+		5B635C601D011C98002FE3B6 /* Wrong.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B635C4F1D011C98002FE3B6 /* Wrong.png */; };
 		5B833AC01CFFCA56008AF4FF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B833ABF1CFFCA56008AF4FF /* main.m */; };
 		5B833AC31CFFCA56008AF4FF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B833AC21CFFCA56008AF4FF /* AppDelegate.m */; };
 		5B833AC61CFFCA56008AF4FF /* Start.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B833AC51CFFCA56008AF4FF /* Start.m */; };
@@ -17,6 +34,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B635C3F1D011C98002FE3B6 /* Arya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Arya.png; sourceTree = "<group>"; };
+		5B635C401D011C98002FE3B6 /* Bad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bad.png; sourceTree = "<group>"; };
+		5B635C411D011C98002FE3B6 /* Catelyn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Catelyn.png; sourceTree = "<group>"; };
+		5B635C421D011C98002FE3B6 /* Correct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Correct.png; sourceTree = "<group>"; };
+		5B635C431D011C98002FE3B6 /* Daenerys.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Daenerys.png; sourceTree = "<group>"; };
+		5B635C441D011C98002FE3B6 /* Excelent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Excelent.png; sourceTree = "<group>"; };
+		5B635C451D011C98002FE3B6 /* God.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = God.png; sourceTree = "<group>"; };
+		5B635C461D011C98002FE3B6 /* Hound.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Hound.png; sourceTree = "<group>"; };
+		5B635C471D011C98002FE3B6 /* Jaime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jaime.png; sourceTree = "<group>"; };
+		5B635C481D011C98002FE3B6 /* Jojen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jojen.png; sourceTree = "<group>"; };
+		5B635C491D011C98002FE3B6 /* Jon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jon.png; sourceTree = "<group>"; };
+		5B635C4A1D011C98002FE3B6 /* Myrcella.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Myrcella.png; sourceTree = "<group>"; };
+		5B635C4B1D011C98002FE3B6 /* Samwell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Samwell.png; sourceTree = "<group>"; };
+		5B635C4C1D011C98002FE3B6 /* Stannis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Stannis.png; sourceTree = "<group>"; };
+		5B635C4D1D011C98002FE3B6 /* Ti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ti.png; sourceTree = "<group>"; };
+		5B635C4E1D011C98002FE3B6 /* Tyrion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tyrion.png; sourceTree = "<group>"; };
+		5B635C4F1D011C98002FE3B6 /* Wrong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wrong.png; sourceTree = "<group>"; };
 		5B833ABB1CFFCA56008AF4FF /* Lab03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B833ABF1CFFCA56008AF4FF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5B833AC11CFFCA56008AF4FF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -41,6 +75,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5B635C3E1D011C98002FE3B6 /* Imgs */ = {
+			isa = PBXGroup;
+			children = (
+				5B635C3F1D011C98002FE3B6 /* Arya.png */,
+				5B635C401D011C98002FE3B6 /* Bad.png */,
+				5B635C411D011C98002FE3B6 /* Catelyn.png */,
+				5B635C421D011C98002FE3B6 /* Correct.png */,
+				5B635C431D011C98002FE3B6 /* Daenerys.png */,
+				5B635C441D011C98002FE3B6 /* Excelent.png */,
+				5B635C451D011C98002FE3B6 /* God.png */,
+				5B635C461D011C98002FE3B6 /* Hound.png */,
+				5B635C471D011C98002FE3B6 /* Jaime.png */,
+				5B635C481D011C98002FE3B6 /* Jojen.png */,
+				5B635C491D011C98002FE3B6 /* Jon.png */,
+				5B635C4A1D011C98002FE3B6 /* Myrcella.png */,
+				5B635C4B1D011C98002FE3B6 /* Samwell.png */,
+				5B635C4C1D011C98002FE3B6 /* Stannis.png */,
+				5B635C4D1D011C98002FE3B6 /* Ti.png */,
+				5B635C4E1D011C98002FE3B6 /* Tyrion.png */,
+				5B635C4F1D011C98002FE3B6 /* Wrong.png */,
+			);
+			path = Imgs;
+			sourceTree = "<group>";
+		};
 		5B833AB21CFFCA56008AF4FF = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +118,7 @@
 		5B833ABD1CFFCA56008AF4FF /* Lab03 */ = {
 			isa = PBXGroup;
 			children = (
+				5B635C3E1D011C98002FE3B6 /* Imgs */,
 				5B833AD91CFFCAC3008AF4FF /* Controllers */,
 				5B833AD81CFFCAB3008AF4FF /* Main */,
 				5B833AC71CFFCA56008AF4FF /* Main.storyboard */,
@@ -155,9 +214,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B635C571D011C98002FE3B6 /* Hound.png in Resources */,
+				5B635C561D011C98002FE3B6 /* God.png in Resources */,
+				5B635C551D011C98002FE3B6 /* Excelent.png in Resources */,
+				5B635C5C1D011C98002FE3B6 /* Samwell.png in Resources */,
+				5B635C521D011C98002FE3B6 /* Catelyn.png in Resources */,
+				5B635C5D1D011C98002FE3B6 /* Stannis.png in Resources */,
+				5B635C501D011C98002FE3B6 /* Arya.png in Resources */,
+				5B635C541D011C98002FE3B6 /* Daenerys.png in Resources */,
 				5B833AD11CFFCA56008AF4FF /* LaunchScreen.storyboard in Resources */,
 				5B833ACE1CFFCA56008AF4FF /* Assets.xcassets in Resources */,
+				5B635C591D011C98002FE3B6 /* Jojen.png in Resources */,
+				5B635C531D011C98002FE3B6 /* Correct.png in Resources */,
+				5B635C511D011C98002FE3B6 /* Bad.png in Resources */,
+				5B635C581D011C98002FE3B6 /* Jaime.png in Resources */,
 				5B833AC91CFFCA56008AF4FF /* Main.storyboard in Resources */,
+				5B635C5F1D011C98002FE3B6 /* Tyrion.png in Resources */,
+				5B635C5A1D011C98002FE3B6 /* Jon.png in Resources */,
+				5B635C601D011C98002FE3B6 /* Wrong.png in Resources */,
+				5B635C5E1D011C98002FE3B6 /* Ti.png in Resources */,
+				5B635C5B1D011C98002FE3B6 /* Myrcella.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -322,6 +398,7 @@
 				5B833AD71CFFCA56008AF4FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
