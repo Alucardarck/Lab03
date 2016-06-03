@@ -202,7 +202,7 @@ char Control[10]={0};
 }
 
 - (IBAction)BttLNext:(id)sender {
-
+    
 }
 
 @end

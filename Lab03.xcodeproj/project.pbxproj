@@ -31,6 +31,7 @@
 		5B833ACC1CFFCA56008AF4FF /* Lab03.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5B833ACA1CFFCA56008AF4FF /* Lab03.xcdatamodeld */; };
 		5B833ACE1CFFCA56008AF4FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B833ACD1CFFCA56008AF4FF /* Assets.xcassets */; };
 		5B833AD11CFFCA56008AF4FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B833ACF1CFFCA56008AF4FF /* LaunchScreen.storyboard */; };
+		5B866A831D0148A000189139 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B866A821D0148A000189139 /* ViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,8 @@
 		5B833ACD1CFFCA56008AF4FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B833AD01CFFCA56008AF4FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B833AD21CFFCA56008AF4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B866A811D0148A000189139 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		5B866A821D0148A000189139 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,7 @@
 		5B833ABD1CFFCA56008AF4FF /* Lab03 */ = {
 			isa = PBXGroup;
 			children = (
+				5B866A7D1D01414600189139 /* Window_2 */,
 				5B635C3E1D011C98002FE3B6 /* Imgs */,
 				5B833AD91CFFCAC3008AF4FF /* Controllers */,
 				5B833AD81CFFCAB3008AF4FF /* Main */,
@@ -155,6 +159,15 @@
 				5B833AC51CFFCA56008AF4FF /* Start.m */,
 			);
 			name = Controllers;
+			sourceTree = "<group>";
+		};
+		5B866A7D1D01414600189139 /* Window_2 */ = {
+			isa = PBXGroup;
+			children = (
+				5B866A811D0148A000189139 /* ViewController2.h */,
+				5B866A821D0148A000189139 /* ViewController2.m */,
+			);
+			name = Window_2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,6 +259,7 @@
 			files = (
 				5B833ACC1CFFCA56008AF4FF /* Lab03.xcdatamodeld in Sources */,
 				5B833AC61CFFCA56008AF4FF /* Start.m in Sources */,
+				5B866A831D0148A000189139 /* ViewController2.m in Sources */,
 				5B833AC31CFFCA56008AF4FF /* AppDelegate.m in Sources */,
 				5B833AC01CFFCA56008AF4FF /* main.m in Sources */,
 			);
