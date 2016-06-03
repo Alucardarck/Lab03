@@ -15,6 +15,7 @@
 @implementation Start
 
 char Counter=0;
+char Control[10]={0};
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -29,14 +30,22 @@ char Counter=0;
 }
 
 
-
+- (IBAction)BttD1Press:(id)sender {
+    if(Control[0]==0)
+    {
+        Control[0]=1;
+        self.Answ1.image= [UIImage imageNamed:@"Wrong.png"];
+    }
+}
 
 - (IBAction)BttL1Press:(id)sender {
-    Counter++;
-    if(Counter==2)
+    if(Control[0]==0)
     {
-       self.lblTittle.text=@"Hello";
+        Counter++;
+        Control[0]=1;
+        self.Answ1.image= [UIImage imageNamed:@"Correct.png"];
     }
-    
 }
+
+
 @end

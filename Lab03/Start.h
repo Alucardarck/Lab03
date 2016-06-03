@@ -13,7 +13,10 @@
 }
 @property (strong, nonatomic) IBOutlet UILabel *lblTittle;
 @property (strong, nonatomic) IBOutlet UIButton *BttL1;
+@property (strong, nonatomic) IBOutlet UIButton *BttD1;
+@property (strong, nonatomic) IBOutlet UIImageView *Answ1;
 
+- (IBAction)BttD1Press:(id)sender;
 - (IBAction)BttL1Press:(id)sender;
 
 @end
