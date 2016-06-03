@@ -21,7 +21,7 @@ char Control[10]={0};
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [scroller setScrollEnabled:YES];
-    [scroller setContentSize: CGSizeMake(320, 1450)];
+    [scroller setContentSize: CGSizeMake(320, 1380)];
 }
 
 - (void)didReceiveMemoryWarning {
