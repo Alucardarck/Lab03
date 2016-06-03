@@ -20,6 +20,8 @@ char Counter=0;
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.lblTittle.text=@"Game of Trhones";
+    [scroller setScrollEnabled:YES];
+    [scroller setContentSize: CGSizeMake(320, 800)];
 }
 
 - (void)didReceiveMemoryWarning {
