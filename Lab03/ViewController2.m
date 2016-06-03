@@ -7,6 +7,7 @@
 //
 
 #import "ViewController2.h"
+#import "Golabal_Vars.h"
 
 @interface ViewController2 ()
 
@@ -14,15 +15,37 @@
 
 @implementation ViewController2
 
+
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-
+    if(Counter==10)
+    {
+        self.EndImg.image= [UIImage imageNamed:@"Excelent.png"];
+        self.EndLbl.text = @"You are a GOT Master";
+    }
+    else
+    {
+        if(Counter>5)
+        {
+            self.EndImg.image= [UIImage imageNamed:@"God.png"];
+            self.EndLbl.text = @"You need to wath more GOT";
+            
+        }
+        else
+        {
+            self.EndImg.image= [UIImage imageNamed:@"Bad.png"];
+            self.EndLbl.text = @"You are a Looser";
+            
+        }
+    }
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+
 }
 
 /*

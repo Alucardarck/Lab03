@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController2 : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *EndLbl;
+@property (strong, nonatomic) IBOutlet UIImageView *EndImg;
 
 @end

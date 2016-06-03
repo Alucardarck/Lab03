@@ -7,6 +7,7 @@
 //
 
 #import "Start.h"
+#import "Golabal_Vars.h"
 
 @interface Start ()
 
@@ -14,8 +15,9 @@
 
 @implementation Start
 
-char Counter=0;
+int Counter;
 char Control[10]={0};
+
 
 - (void)viewDidLoad {
     [super viewDidLoad];

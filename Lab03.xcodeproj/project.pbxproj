@@ -65,6 +65,7 @@
 		5B833AD21CFFCA56008AF4FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B866A811D0148A000189139 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
 		5B866A821D0148A000189139 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		5B866A841D01BAC700189139 /* Golabal_Vars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Golabal_Vars.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +132,7 @@
 				5B833AD21CFFCA56008AF4FF /* Info.plist */,
 				5B833ACA1CFFCA56008AF4FF /* Lab03.xcdatamodeld */,
 				5B833ABE1CFFCA56008AF4FF /* Supporting Files */,
+				5B866A841D01BAC700189139 /* Golabal_Vars.h */,
 			);
 			path = Lab03;
 			sourceTree = "<group>";
